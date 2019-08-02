@@ -1,0 +1,6 @@
+size comparable to last box to eliminate problems with too small bounding box
+automatic capture code for knn
+pixel based with only face cutout might work better
+position based more universal. Due to limitation of keypoint, some points are inaccurate.
+
+
